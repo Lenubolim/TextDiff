@@ -22,7 +22,7 @@
 - torchvision >= 0.8.0
 
 ### 数据集
-- <a href="[TextZoom](https://github.com/WenjiaWang0312/TextZoom)" target="_blank" title="点击可跳转到TextZoom">点击TextZoom下载数据集</a>
+- <a href="[TextZoom](https://github.com/WenjiaWang0312/TextZoom)" title="点击可跳转到TextZoom">点击TextZoom下载数据集</a>
 
 ### 相关权重文件
 

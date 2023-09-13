@@ -11,9 +11,13 @@
 这里是论文[TextDiff: Mask-Guided Residual Diffusion Models for Scene Text Image Super-Resolution]((https://arxiv.org/abs/2308.06743))的官方复现仓库。TextDiff是一个场景文字超分辨率优化模型（详见[论文](https://arxiv.org/abs/2308.06743)).
 </div>
 
+# 网络结构
+<div align="center">
+
+ <img width="100%" src="model.png">
+ </div>
+ 
 # 使用指南
-
-
 
 ## 环境配置
 ### 深度学习环境
@@ -43,18 +47,9 @@
 - [ ] 添加推理代码
 - [ ] 使用DPM_solver减少推理步长
 - [ ] 上传Inference notebook，方便复现
-
-# 网络结构
-<div align="center">
-
- <img width="100%" src="model.png">
  
 # 效果图
-<div align="center">
-
- <img width="100%" src="sota.png">
-
-</div>
+<div align="center"> <img width="100%" src="sota.png"></div>
 
 # 感谢
 

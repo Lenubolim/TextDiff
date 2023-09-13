@@ -20,6 +20,14 @@
 - python >= 3.7
 - pytorch >= 1.7.0
 - torchvision >= 0.8.0
+- lmdb >= 0.98
+- pillow >= 7.1.2
+- numpy
+- six
+- tqdm
+- python-opencv
+- easydict
+- yaml
 
 ### 数据集
 - <a href="https://github.com/WenjiaWang0312/TextZoom" title="点击可跳转到TextZoom">点击TextZoom下载数据集</a>

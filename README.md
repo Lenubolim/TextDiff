@@ -25,8 +25,10 @@
 - <a href="https://github.com/WenjiaWang0312/TextZoom" title="点击可跳转到TextZoom">点击TextZoom下载数据集</a>
 
 ### 相关权重文件
-- download the Aster model from https://github.com/ayumiymk/aster.pytorch, Moran model from https://github.com/Canjie-Luo/MORAN_v2, 
-CRNN model from https://github.com/meijieru/crnn.pytorch.
+- <a href="https://github.com/ayumiymk/aster.pytorch" title="点击可跳转到TextZoom">下载Aster model权重文件</a>
+- <a href="https://github.com/Canjie-Luo/MORAN_v2" title="点击可跳转到TextZoom">下载Moran model权重文件</a>
+- <a href="https://github.com/meijieru/crnn.pytorch" title="点击可跳转到TextZoom">下载CRNN model权重文件</a>
+
 
 # To-do lists
 

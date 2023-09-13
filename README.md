@@ -1,5 +1,5 @@
 
-<img width="900" alt="image" src="com.png">
+<img width="960" alt="image" src="com.png">
 
 # TextDiff: Mask-Guided Residual Diffusion Models for Scene Text Image Super-Resolution
 

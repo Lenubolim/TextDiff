@@ -30,7 +30,7 @@
 - yaml
 
 ### 数据集
-- <a href="https://github.com/WenjiaWang0312/TextZoom" title="点击可跳转到TextZoom">点击TextZoom下载数据集</a>
+- <a href="https://github.com/WenjiaWang0312/TextZoom" title="点击可跳转到TextZoom">下载TextZoom数据集</a>
 
 ### 相关权重文件
 - <a href="https://github.com/ayumiymk/aster.pytorch" title="点击可跳转到TextZoom">下载Aster model权重文件</a>

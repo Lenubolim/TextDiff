@@ -8,7 +8,7 @@
 
 [简体中文](README.md) | [English](README.EN.md) | [Paper](https://arxiv.org/abs/2308.06743)
 # TextDiff: Mask-Guided Residual Diffusion Models for Scene Text Image Super-Resolution
-这里是论文[TextDiff: Mask-Guided Residual Diffusion Models for Scene Text Image Super-Resolution]((https://arxiv.org/abs/2308.06743))的官方复现仓库。TextDiff是一个场景文字超分辨率优化模型（详见[论文](https://arxiv.org/abs/2308.06743).
+这里是论文[TextDiff: Mask-Guided Residual Diffusion Models for Scene Text Image Super-Resolution]((https://arxiv.org/abs/2308.06743))的官方复现仓库。TextDiff是一个场景文字超分辨率优化模型（详见[论文](https://arxiv.org/abs/2308.06743)).
 </div>
 
 # 使用指南

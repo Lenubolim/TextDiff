@@ -1,6 +1,6 @@
 <div align="center">
 
- <img width="100%" src="com.pngg">
+ <img width="100%" src="com.png">
 
 </div>
 

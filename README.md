@@ -49,7 +49,7 @@
 - [ ] 上传Inference notebook，方便复现
  
 # 效果图
-<div align="center"> <img width="100%" src="sota.png"></div>
+<div align="center"> <img width="400" src="sota.png"></div>
 
 # 感谢
 

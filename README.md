@@ -58,3 +58,15 @@
 <div id="refer-anchor-1"></div>
 
 - [1] 
+
+
+# :book: Citation
+If you use (part of) my code or find my work helpful, please consider citing
+```
+@article{liu2023textdiff,
+  title={TextDiff: Mask-Guided Residual Diffusion Models for Scene Text Image Super-Resolution},
+  author={Liu, Baolin and Yang, Zongyuan and Wang, Pengfei and Zhou, Junjie and Liu, Ziqi and Song, Ziyi and Liu, Yan and Xiong, Yongping},
+  journal={arXiv preprint arXiv:2308.06743},
+  year={2023}
+}
+```

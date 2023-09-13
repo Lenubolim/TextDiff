@@ -33,7 +33,7 @@
 
 # 感谢
 
-- 如果你觉得TextDiff对你有帮助，请给个star，谢谢！🤞😘
+- 如果你觉得TextDiff对你有帮助，请给个star，谢谢！
 - 如果你有任何问题，欢迎提issue，我会尽快回复。
 - 如果你想交流，欢迎给我发邮件**baolin@bupt.edu.cn**，备注：**TextDiff**。
 - 如果你愿意将TextDiff作为你的项目的baseline，欢迎引用我们的论文。

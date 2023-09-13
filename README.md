@@ -16,10 +16,15 @@
 
 
 ## 环境配置
-
+### 深度学习环境
 - python >= 3.7
 - pytorch >= 1.7.0
 - torchvision >= 0.8.0
+
+### 数据集
+- <a href="[TextZoom](https://github.com/WenjiaWang0312/TextZoom)" target="_blank" title="点击可跳转到TextZoom">点击TextZoom下载数据集</a>
+
+### 相关权重文件
 
 
 # To-do lists

@@ -46,7 +46,6 @@
 - [ ] 添加训练代码
 - [ ] 添加推理代码
 - [ ] 使用DPM_solver减少推理步长
-- [ ] 上传Inference notebook，方便复现
  
 # 效果图
 <div align="center"> <img width="400" src="sota.png"></div>

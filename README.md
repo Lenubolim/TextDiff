@@ -37,7 +37,6 @@
 - <a href="https://github.com/Canjie-Luo/MORAN_v2" title="点击可跳转到TextZoom">下载Moran model权重文件</a>
 - <a href="https://github.com/meijieru/crnn.pytorch" title="点击可跳转到TextZoom">下载CRNN model权重文件</a>
 
-
 # To-do lists
 
 - [ ] 添加训练代码
@@ -45,6 +44,17 @@
 - [ ] 使用DPM_solver减少推理步长
 - [ ] 上传Inference notebook，方便复现
 
+# 网络结构
+<div align="center">
+
+ <img width="100%" src="model.png">
+ 
+# 效果图
+<div align="center">
+
+ <img width="100%" src="sota.png">
+
+</div>
 
 # 感谢
 

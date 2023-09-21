@@ -8,19 +8,20 @@
 
 [简体中文](README.md) | [English](README_EN.md) | [Paper](https://arxiv.org/abs/2308.06743)
 # TextDiff: Mask-Guided Residual Diffusion Models for Scene Text Image Super-Resolution
-这里是论文[TextDiff: Mask-Guided Residual Diffusion Models for Scene Text Image Super-Resolution]((https://arxiv.org/abs/2308.06743))的官方复现仓库。TextDiff是一个场景文字超分辨率优化模型（详见[论文](https://arxiv.org/abs/2308.06743)).
+Here is the official reproduction repository of the paper [TextDiff: Mask-Guided Residual Diffusion Models for Scene Text Image Super-Resolution]((https://arxiv.org/abs/2308.06743)). TextDiff is a scene text super-resolution optimization model (see [paper](https://arxiv.org/abs/2308.06743) for details).
 </div>
 
-# 网络结构
+# Network Structure
 <div align="center">
 
  <img width="100%" src="model.png">
  </div>
  
-# 使用指南
+# User Guide
 
-## 环境配置
-### 深度学习环境
+
+## Environment configuration
+### Deep Learning Environment
 - python >= 3.7
 - pytorch >= 1.7.0
 - torchvision >= 0.8.0
@@ -33,29 +34,28 @@
 - easydict
 - yaml
 
-### 数据集
-- <a href="https://github.com/WenjiaWang0312/TextZoom" title="点击可跳转到TextZoom">下载TextZoom数据集</a>
+### Dataset
+- <a href="https://github.com/WenjiaWang0312/TextZoom" title="Click to jump toTextZoom">Download TextZoom dataset</a>
 
-### 相关权重文件
-- <a href="https://github.com/ayumiymk/aster.pytorch" title="点击可跳转到TextZoom">下载Aster model权重文件</a>
-- <a href="https://github.com/Canjie-Luo/MORAN_v2" title="点击可跳转到TextZoom">下载Moran model权重文件</a>
-- <a href="https://github.com/meijieru/crnn.pytorch" title="点击可跳转到TextZoom">下载CRNN model权重文件</a>
+### Related weight files
+- <a href="https://github.com/ayumiymk/aster.pytorch" title="Click to jump toTextZoom">Download Aster model weight file</a>
+- <a href="https://github.com/Canjie-Luo/MORAN_v2" title="Click to jump toTextZoom">Download Moran model weight file</a>
+- <a href="https://github.com/meijieru/crnn.pytorch" title="Click to jump toTextZoom">Download CRNN model weight file</a>
 
 # To-do lists
 
-- [ ] 添加训练代码
-- [ ] 添加推理代码
-- [ ] 使用DPM_solver减少推理步长
+- [ ] Add training code
+- [ ] Add inference code
+- [ ] Use DPM_solver to reduce inference step size
  
-# 效果图
+# Renderings
 <div align="center"> <img width="400" src="sota.png"></div>
 
-# 感谢
+# Gratitude
 
-- 如果你觉得TextDiff对你有帮助，请给个star，谢谢！
-- 如果你有任何问题，欢迎提issue，我会尽快回复。
-- 如果你想交流，欢迎给我发邮件**3198065092@qq.com**，备注：**TextDiff**。
-- 如果你愿意将TextDiff作为你的项目的baseline，欢迎引用我们的论文。
+- If you think TextDiff is helpful to you, please give it a star, thank you!
+- If you have any questions, please raise an issue and I will reply as soon as possible.
+- If you are willing to use TextDiff as a baseline for your project, you are welcome to cite our paper.
 
 
 # References

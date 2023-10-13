@@ -53,14 +53,22 @@
 # 感谢
 
 - 如果你觉得TextDiff对你有帮助，请给个star，谢谢！
-- 如果你有任何问题，欢迎提issue，我会尽快回复。
+- 如果你有任何问题，欢迎提issue(issue通知与我邮箱绑定，看到后我会及时回复)。
 - 如果你愿意将TextDiff作为你的项目的baseline，欢迎引用我们的论文。
 
 
 # References
 <div id="refer-anchor-1"></div>
 
-- [1] 
+- [1] Scene text telescope:
+Text-focused scene image super-resolution
+- [2] Activating more pixels in image super-resolution
+transformer.
+- [3] Srdiff: Single image super-resolution
+with diffusion probabilistic models.
+- [4] DocDiff: Document Enhancement via Residual Diffusion Models
+- [5]  Improving
+Scene Text Image Super-Resolution via Dual Prior Modulation Network
 
 
 # :book: Citation

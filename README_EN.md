@@ -61,7 +61,15 @@ Here is the official reproduction repository of the paper [TextDiff: Mask-Guided
 # References
 <div id="refer-anchor-1"></div>
 
-- [1] 
+- [1] Scene text telescope:
+Text-focused scene image super-resolution
+- [2] Activating more pixels in image super-resolution
+transformer.
+- [3] Srdiff: Single image super-resolution
+with diffusion probabilistic models.
+- [4] DocDiff: Document Enhancement via Residual Diffusion Models
+- [5]  Improving
+Scene Text Image Super-Resolution via Dual Prior Modulation Network
 
 
 # :book: Citation

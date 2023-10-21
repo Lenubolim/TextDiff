@@ -82,3 +82,7 @@ If you use (part of) my code or find my work helpful, please consider citing
   year={2023}
 }
 ```
+
+# Acknowledgement
+This code is developed relying on <a href="https://github.com/Royalvice/DocDiff" title="DocDiff">DocDiff</a> and <a href="https://github.com/mjq11302010044/TATT" title="TATT">TATT</a>. Thanks for these great projects. Among them, DocDiff is the main research content of my classmate, and I participated in part of the research.
+

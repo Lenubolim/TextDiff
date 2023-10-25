@@ -46,6 +46,10 @@
 - [ ] 添加训练代码(soon)
 - [ ] 添加推理代码(soon)
 - [ ] 使用DPM_solver减少推理步长
+
+### 训练
+
+### 推理
  
 # 效果图
 <div align="center"> <img width="400" src="sota.png"></div>

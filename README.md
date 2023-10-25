@@ -47,7 +47,7 @@
 git clone https://github.com/Lenubolim/TextDiff.git
 ```
 2.参数配置
-见config.py文件 
+<br>见config.py文件 <br>
 
 3. 训练
 ```

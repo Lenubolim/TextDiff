@@ -42,18 +42,18 @@
 - <a href="https://github.com/meijieru/crnn.pytorch" title="点击可跳转到TextZoom">下载CRNN model权重文件</a>
 
 ### 训练
-安装
-'''
+1. 安装
+```
 git clone https://github.com/Lenubolim/TextDiff.git
-'''
-训练
-'''
+```
+2. 训练
+```
 python train.py
-'''
+```
 ### 推理
-'''
+```
 python test.py
-'''
+```
 
 # To-do lists
 

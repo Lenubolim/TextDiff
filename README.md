@@ -41,19 +41,19 @@
 - <a href="https://github.com/Canjie-Luo/MORAN_v2" title="点击可跳转到TextZoom">下载Moran model权重文件</a>
 - <a href="https://github.com/meijieru/crnn.pytorch" title="点击可跳转到TextZoom">下载CRNN model权重文件</a>
 
-### 训练
+## 训练
 1. 安装
 ```
 git clone https://github.com/Lenubolim/TextDiff.git
 ```
 2. 参数配置
-<br> 见config.py文件 <br>
+<br> 见config.yaml文件 <br>
 
 3. 训练
 ```
 python train.py
 ```
-### 推理
+## 推理
 ```
 python test.py
 ```

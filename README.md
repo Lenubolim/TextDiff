@@ -41,15 +41,26 @@
 - <a href="https://github.com/Canjie-Luo/MORAN_v2" title="点击可跳转到TextZoom">下载Moran model权重文件</a>
 - <a href="https://github.com/meijieru/crnn.pytorch" title="点击可跳转到TextZoom">下载CRNN model权重文件</a>
 
+### 训练
+安装
+'''
+git clone https://github.com/Lenubolim/TextDiff.git
+'''
+训练
+'''
+python train.py
+'''
+### 推理
+'''
+python test.py
+'''
+
 # To-do lists
 
 - [ ] 添加训练代码(soon)
 - [ ] 添加推理代码(soon)
 - [ ] 使用DPM_solver减少推理步长
 
-### 训练
-
-### 推理
  
 # 效果图
 <div align="center"> <img width="400" src="sota.png"></div>

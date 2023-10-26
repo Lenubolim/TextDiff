@@ -16,6 +16,9 @@
 
  <img width="100%" src="model.png">
  </div>
+
+# News
+- 置顶: 介绍一款我们实验室开发的多功能且多平台的OCR软件,包含常用的各种OCR功能，例如PDF转word，PDF转excel，公式识别，表格识别以及自动去除水印功能，欢迎试用！
  
 # 使用指南
 

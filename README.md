@@ -18,7 +18,7 @@
  </div>
 
 # News
-- 置顶: 介绍一款我们实验室开发的多功能且多平台的OCR<a href="https://www.aibupt.com/" title="OCR">OCR</a>软件,包含常用的各种OCR功能，例如PDF转word，PDF转excel，公式识别，表格识别以及自动去除水印功能，欢迎试用！
+- 置顶: 介绍一款我们实验室开发的多功能且多平台的<a href="https://www.aibupt.com/" title="OCR">OCR</a>软件,包含常用的各种OCR功能，例如PDF转word，PDF转excel，公式识别，表格识别以及自动去除水印功能，欢迎试用！
 - 查看To-do lists，获取最新信息。
  
 # 使用指南

@@ -64,8 +64,8 @@ python test.py
 
 # To-do lists
 
-- [ ] 添加训练代码(soon)
-- [ ] 添加推理代码(soon)
+- [ ] 添加训练代码(To be released in mid to late December)
+- [ ] 添加推理代码(To be released in mid to late December)
 - [ ] 使用DPM_solver减少推理步长
 
  
